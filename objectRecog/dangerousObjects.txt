@@ -1,0 +1,4 @@
+knife
+gun
+dog
+elephant
